@@ -36,4 +36,6 @@ Projeto onde várias Redes Neurais competem para aprender a jogar o jogo do dino
 - A função 'ControlarEstadoDinossauros' dentro do arquivo 'main.cpp' contém o código que faz a comunicação entre o jogo e a rede neural.
 - O resto dos arquivos são apenas os códigos da implementação do jogo.
 
-**Os arquivos "Dinossauro Treinando.zip" e "Dinossauro x1.zip" contém o executável para Windows :)**
+**Os arquivos "Dinossauro Treinando.zip" e "Dinossauro x1.zip" contém o executável para Windows**
+
+**CRÉDITOS AO CANAL UNIVERSO PROGRAMADO**
