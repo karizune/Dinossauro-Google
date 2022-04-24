@@ -2,7 +2,7 @@
 
 Projeto onde várias Redes Neurais competem para aprender a jogar o jogo do dinossauro no navegador Google Chrome.
 
-![Preview-Screens](https://github.com/karizune/Dinossauro-Google/blob/master/preview.gif)
+![Preview-Screens](https://github.com/JVictorDias/Dinossauro-Google/blob/master/preview.gif)
 
 # Sobre o Projeto
 
