@@ -20,6 +20,18 @@ Projeto onde várias Redes Neurais competem para aprender a jogar o jogo do dino
   - O tamanho da população que utilizei variou entre 1000 ~ 5000 indivíduos.
   - O tempo de aprendizagem variou entre 15 ~ 60 minutos por modo de Jogo.
 
+      **Para mais informações e explicações acesse o [vídeo demonstrativo](https://www.youtube.com/watch?v=NZlIYr1slAk).** 
+
+
+
+# Por quê?
+
+  Desenvolvi esse projeto por curiosidade e diversão :)
+  
+  Para mais projetos como esse visite o [canal](youtube.com/UniversoProgramado).
+
+
+
 # Observações:
 
 - O arquivo 'redeNeural.c' contém todas as funções relativas à implementação da Rede Neural (tudo sobre a rede neural está nesse arquivo).
@@ -36,6 +48,7 @@ Projeto onde várias Redes Neurais competem para aprender a jogar o jogo do dino
 - A função 'ControlarEstadoDinossauros' dentro do arquivo 'main.cpp' contém o código que faz a comunicação entre o jogo e a rede neural.
 - O resto dos arquivos são apenas os códigos da implementação do jogo.
 
-**Os arquivos "Dinossauro Treinando.zip" e "Dinossauro x1.zip" contém o executável para Windows**
 
-**CRÉDITOS AO CANAL UNIVERSO PROGRAMADO**
+**Os arquivos "Dinossauro Treinando.zip" e "Dinossauro x1.zip" contém o executável para Windows :)**
+
+Um grande abraço!
